@@ -1,0 +1,6 @@
+vgg_face_weights.h5
+/videos/*
+/images/*
+/faces/*
+/.ipynb_checkpoints/*
+
